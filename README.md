@@ -47,4 +47,7 @@ python manage.py runserver
 Then visit http://127.0.0.1:8000/
  in your browser.
 
+# 🧩 Safety Incident Logger
 
+A simple Django web application to record, view, and manage safety incidents.  
+Built as a practical learning project to strengthen my Python, Django, and secure web development skills.
