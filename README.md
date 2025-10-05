@@ -48,7 +48,7 @@ Then visit http://127.0.0.1:8000/
  in your browser.
 
 ---
-
+''text
 ## 🧠 Learning Outcomes
 
 Through this project, I:
@@ -61,6 +61,8 @@ Gained experience managing version control with Git and GitHub.
 
 Improved my ability to turn an idea into a functional web application.
 
+---
+
 👤 Author
 
 Jose Bordon
@@ -70,7 +72,7 @@ Cybersecurity & Forensics Student @ Edinburgh Napier University
 
 ## 📝 License & Copyright
 
-© 2025 Jose Boran.  
+© 2025 Jose Bordon.  
 This project is shared publicly for educational and portfolio purposes.  
 You may view and reuse the code for learning, but please give appropriate credit.  
 Commercial use or redistribution without permission is not allowed.
