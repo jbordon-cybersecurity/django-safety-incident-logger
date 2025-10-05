@@ -1,3 +1,4 @@
+```bash
 # 🧩 Safety Incident Logger
 
 A simple Django web application to record, view, and manage safety incidents.  
@@ -18,7 +19,7 @@ Built as a practical learning project to strengthen my Python, Django, and secur
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/<your-username>/django-safety-incident-logger.git
 cd django-safety-incident-logger
 
