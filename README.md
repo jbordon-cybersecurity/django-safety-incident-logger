@@ -47,32 +47,4 @@ python manage.py runserver
 Then visit http://127.0.0.1:8000/
  in your browser.
 
----
 
-## 🧠 Learning Outcomes
-
-Through this project, I:
-
-Strengthened my understanding of Django models, views, and templates.
-
-Practiced secure coding and defensive programming principles.
-
-Gained experience managing version control with Git and GitHub.
-
-Improved my ability to turn an idea into a functional web application.
-
----
-
-👤 Author
-
-Jose Bordon
-Cybersecurity & Forensics Student @ Edinburgh Napier University
-
----
-
-## 📝 License & Copyright
-
-© 2025 Jose Bordon.  
-This project is shared publicly for educational and portfolio purposes.  
-You may view and reuse the code for learning, but please give appropriate credit.  
-Commercial use or redistribution without permission is not allowed.
