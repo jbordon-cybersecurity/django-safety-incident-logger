@@ -28,7 +28,7 @@ Built as a practical learning project to strengthen my Python, Django, and secur
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/<your-username>/django-safety-incident-logger.git
 cd django-safety-incident-logger
 
@@ -68,7 +68,7 @@ Cybersecurity & Forensics Student @ Edinburgh Napier University
 
 ## 📝 License & Copyright
 
-© 2025 Jose Boran.  
+© 2025 Jose Bordon.  
 This project is shared publicly for educational and portfolio purposes.  
 You may view and reuse the code for learning, but please give appropriate credit.  
 Commercial use or redistribution without permission is not allowed.
