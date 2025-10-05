@@ -47,6 +47,8 @@ python manage.py runserver
 Then visit http://127.0.0.1:8000/
  in your browser.
 
+---
+
 ## 🧠 Learning Outcomes
 
 Through this project, I:
